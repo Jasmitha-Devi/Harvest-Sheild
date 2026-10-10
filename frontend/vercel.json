@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://harvest-sheild-api.onrender.com/:path*"
+    }
+  ]
+}
