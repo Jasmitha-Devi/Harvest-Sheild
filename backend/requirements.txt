@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.53.0
+requests==2.34.2
+python-dotenv==1.2.3
+polyline==2.0.4
+flexpolyline==0.1.0
